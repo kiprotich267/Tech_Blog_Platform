@@ -1,0 +1,25 @@
+.nav-list{
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    
+    
+}
+
+.nav-link1{
+    text-decoration: none;
+    
+}
+#paragraph{
+    color: royalblue;
+    font-size: 2rem;
+}
+p{
+    color: red !important; 
+    font-size: 1.5rem;
+ }
+ .par{
+
+    color: orange;
+    font-size: 1.5rem;
+ }
